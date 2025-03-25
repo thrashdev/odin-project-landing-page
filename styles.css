@@ -229,3 +229,7 @@
     padding: 5vh 0;
     font-weight: normal;
 }
+
+button:hover {
+    cursor: pointer;
+}
